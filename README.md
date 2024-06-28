@@ -1,1 +1,1 @@
-# rootkit
+# rootkit simples e talvez funcional
